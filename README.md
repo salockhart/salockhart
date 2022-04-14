@@ -1,6 +1,6 @@
 # Hi there, I'm Alex! 👋
 
-Grew up in [Canada](https://goo.gl/maps/X2sCbkNg88EYkRoj9) 🇨🇦, living in [London](https://goo.gl/maps/S2Z3yyMMjdhL7j4i8) 🇬🇧, working for [Datasite](https://www.datasite.com) <img src="https://www.datasite.com/content/dam/datasite/common/images/website/base/favicon.ico" alt="" width="16" width="16" />. 
+Grew up and living in [Canada](https://goo.gl/maps/X2sCbkNg88EYkRoj9) 🇨🇦, working for [Datasite](https://www.datasite.com) <img src="https://www.datasite.com/content/dam/datasite/common/images/website/base/favicon.ico" alt="" width="16" width="16" />. 
 
 <details>
 <summary>Click for vanity statistics</summary>
